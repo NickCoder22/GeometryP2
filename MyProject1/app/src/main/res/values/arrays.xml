@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pandt">
+        <item>Параллелограмм:</item>
+        <item>Признаки</item>
+        <item>Свойства</item>
+        <item>Нахождение площади</item>
+        <item>Трапеция:</item>
+        <item>Признаки</item>
+        <item>Свойства</item>
+    </string-array>
+    <string-array name="triangle">
+        <item>Свойства прямоугольного</item>
+        <item>Свойства равнобедренного</item>
+        <item>Свойства произвольного</item>
+        <item>Все площади</item>
+
+    </string-array>
+
+    
+</resources>
